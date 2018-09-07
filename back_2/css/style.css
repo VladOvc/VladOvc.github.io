@@ -1,0 +1,47 @@
+h1 {
+	color: #ECEAEA;
+	font-size: 30px;
+}
+
+span {
+	color: #E51E1E;
+}
+
+b {
+	font-size: 20px;
+}
+
+body {
+	background-color: #1C1C1C;
+	padding: 10px 0;
+	padding-bottom: 0;
+}
+
+.box {
+	background-color: #474444;
+	padding: 10px 25px;
+	margin-bottom: 100px;
+}
+
+.box_1 {
+	background-color: #474444;
+	padding: 7px 25px;
+	margin-bottom: 10px;
+}
+
+.box_2 {
+	background-color: #474444;
+	padding: 7px 25px;
+}
+
+.box_3 {
+	background-color: #474444;
+	padding: 10px 25px;
+	margin-bottom: 100px;
+}
+
+.box_end {
+	background-color: #474444;
+	padding: 10px 25px;
+	margin-bottom: 10px;
+}
