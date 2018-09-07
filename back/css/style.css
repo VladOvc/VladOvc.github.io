@@ -1,0 +1,22 @@
+h1 {
+	color: #E8E3E3;
+	font-size: 30px;
+}
+
+span {
+	color: #E51E1E;
+}
+
+b {
+	font-size: 20px;
+}
+
+body {
+	background-color: #1C1C1C;
+}
+
+.box {
+	background-color: #474444;
+	padding: 25px;
+	margin-bottom: 10px;
+}
